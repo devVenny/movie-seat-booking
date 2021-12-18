@@ -2,5 +2,7 @@
 
 ## javascript function
 
-- 선택한 좌석들의 count 가져오기
-- option 별 price \* count
+- selceted 좌석 표시(occupied 좌석 제외)
+- 좌석 선택 시 count 올리기
+- 좌석 선택 시 선택한 좌석 수에 따라 total 업데이트
+- 영화에 맞는 가격으로 total 변경
